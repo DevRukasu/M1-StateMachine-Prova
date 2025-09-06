@@ -1,0 +1,22 @@
+# Pastas que NÃO precisam ir pro Git (são geradas automaticamente)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Arquivos de build temporários do Visual Studio
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.local
